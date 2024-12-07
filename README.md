@@ -1,5 +1,9 @@
 ## Hi I'm <a href= "www.linkedin.com/in/donnellgladden">Donnell</a> an aspiring IT Professional!
 
+<h2>Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket:Installation](https://github.com/DGladden662/osTicket-Installation)
 <!--
 **DGladden662/DGladden662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
