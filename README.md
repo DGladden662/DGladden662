@@ -1,4 +1,4 @@
-## Hi I'm <a href= "www.linkedin.com/in/donnellgladden">Donnell</a> an aspiring IT Professional!
+## Hi I'm <a href= "www.linkedin.com/in/donnellgladden">Donnell</a> an aspiring IT Support Professional with experience in troubleshooting, network administration, and cloud technologies (Azure). Seeking a challenging role to leverage technical expertise and strong customer service skills!
 
 <h2>Information Technology Projects:</h2>
 
